@@ -43,3 +43,9 @@ The example uses the Breast Cancer dataset found in the [_mlbench_](https://cran
     └── project_report.html
 
 ```
+
+## Related Resources
+
+The [_caret_](http://topepo.github.io/caret/index.html) package
+
+[_Applied Predictive Modeling_](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson
